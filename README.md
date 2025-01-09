@@ -21,4 +21,6 @@ Before you start, ensure you have the following installed:
 ```bash
 git clone https://github.com/NAnandhu/DCertiApp/
 cd CertiApp
+npm install
+npm start
 
